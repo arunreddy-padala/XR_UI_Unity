@@ -1,4 +1,4 @@
-# ShapeWrist_XR_UI_Unity
+# ShapeMaster_XR_UI_Unity
 
 This Unity project introduces a sophisticated UI game set in a virtual environment, designed specifically for interaction with Oculus VR controllers. Players can manipulate a variety of shapes through an intuitive wrist-mounted menu, engaging with a dynamic and responsive 3D interface.
 
